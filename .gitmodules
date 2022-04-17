@@ -1,0 +1,3 @@
+[submodule "websocket-echo-server-python"]
+	path = websocket-echo-server-python
+	url = https://github.com/buehren/websocket-echo-server-python.git

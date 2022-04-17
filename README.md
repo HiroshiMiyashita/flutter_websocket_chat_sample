@@ -2,7 +2,11 @@
 
 flutterを使ったチャットクライアントのサンプル.サーバとのやり取りについてはWebSocketを使用.
 
-## Getting Started
+## 環境設定
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
